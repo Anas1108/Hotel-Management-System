@@ -7,6 +7,8 @@ A website created using HTML, CSS, and JavaScript for hotel management purposes.
 - Room Booking
 - Dinner
 - Lunch
+- BreakFast
+- Complaint Box
 
 ## Requirements
 
@@ -15,9 +17,9 @@ A website created using HTML, CSS, and JavaScript for hotel management purposes.
 ## Usage
 
 1. Clone the repository
-- git clone https://github.com/<username>/hotel-management-system.git
+- git clone https://github.com/Anas1108/Hotel-Management-System.git
 
-2. Open the index.html file in a browser to view the website.
+2. Open the hotel_managment.html file in a browser to view the website.
 
 3. Explore the different pages like room booking, dinner, and lunch.
 
